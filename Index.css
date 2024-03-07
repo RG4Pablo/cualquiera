@@ -1,0 +1,41 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+html{
+   font-size: 10px;
+   font-family: monospace;
+}
+
+.pantalla{
+   max-width: 37.5rem;
+   margin: auto;
+   padding: 1rem;
+
+}
+
+.texto{
+   margin: auto;
+   margin-top: 1rem;
+   font-size: 1rem;
+ 
+ }
+
+.titulo1{
+   border-radius: 2rem;
+   
+   background-color: gray;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.texto p{
+   padding: 2rem;
+   font-size: 1.3rem;
+   margin: auto;
+ 
+ }
